@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carleigh Camacho
 - 👀 I’m interested in keeping up in the 21st century!
-- 🌱 I’m currently learning Git, HTML, and CSS
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 📫 I can be reached at carleighscamacho@gmail.com
 
 <!---
